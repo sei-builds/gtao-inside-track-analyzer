@@ -1,0 +1,712 @@
+{
+    "rank_stats": {
+        "appearances": {
+            "1": 32824,
+            "2": 23017,
+            "3": 30244,
+            "4": 25595,
+            "5": 29109,
+            "6": 26711
+        },
+        "wins": {
+            "1": 14712,
+            "2": 5391,
+            "3": 3304,
+            "4": 1872,
+            "5": 1312,
+            "6": 943
+        }
+    },
+    "horse_num_stats": {
+        "appearances": {
+            "1": 27919,
+            "2": 27920,
+            "3": 27920,
+            "4": 27920,
+            "5": 27920,
+            "6": 27904
+        },
+        "wins": {
+            "1": 4691,
+            "2": 4580,
+            "3": 4628,
+            "4": 4703,
+            "5": 4537,
+            "6": 4398
+        }
+    },
+    "horse_name_stats": {
+        "appearances": {
+            "\u30c8\u30fc\u30bf\u30eb\u30d9\u30eb\u30bf\u30fc": 1238,
+            "\u30af\u30e9\u30d5\u30e9\u30f3\u30cb\u30f3\u30b0": 1353,
+            "\u30e0\u30fc\u30f3\u30ed\u30c3\u30af": 1240,
+            "\u30d5\u30ea\u30c3\u30d7\u30a6\u30a3\u30c3\u30b0": 1390,
+            "\u30cf\u30fc\u30c9\u30bf\u30a4\u30e0\u30c0\u30f3": 1237,
+            "\u30b4\u30fc\u30b9\u30c8\u30c0\u30f3\u30af": 1290,
+            "\u30c6\u30b6\u30fc\u30a8\u30f3\u30c9": 1211,
+            "\u30bd\u30eb\u30c6\u30a3\u30a2\u30f3\u30c9\u30a6\u30a9\u30fc\u30af": 1269,
+            "\u30d2\u30c3\u30d4\u30fc\u30d6\u30e9\u30c3\u30af": 1314,
+            "\u30bf\u30c3\u30af\u30b9\u30b6\u30d7\u30a2": 1281,
+            "\u30a4\u30a8\u30ed\u30fc\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3": 1335,
+            "\u30b5\u30f3\u30c0\u30fc\u30b9\u30ab\u30f3\u30af": 1235,
+            "\u30d7\u30ea\u30fc\u30c8\u30df\u30fc\u30d9\u30a4\u30d3\u30fc": 1318,
+            "\u30bf\u30fc\u30f3\u30c8\u30e0\u30fc\u30c9": 1314,
+            "\u30bc\u30a2\u30b7\u30fc\u30d7\u30ed\u30fc": 1282,
+            "\u30c9\u30c3\u30b8\u30fc\u30d5\u30eb\u30fc\u30b8\u30fc": 1354,
+            "\u30d5\u30a1\u30a4\u30a2\u30cf\u30b6\u30fc\u30c9": 1266,
+            "\u30d7\u30ea\u30c6\u30a3\u30ba\u30a2\u30ba\u30d4\u30b9\u30c8\u30eb": 1281,
+            "\u30bd\u30fc\u30b7\u30e3\u30eb\u30a6\u30a9\u30fc\u30ea\u30a2\u30fc": 1239,
+            "\u30b2\u30c3\u30c6\u30a3\u30f3\u30b0\u30db\u30fc\u30c6\u30a3\u30fc": 1285,
+            "\u30a6\u30a3\u30fc\u30b9\u30ab\u30ca\u30fc": 1330,
+            "\u30ed\u30f3\u30ea\u30fc\u30d6\u30e9\u30b6\u30fc": 1367,
+            "\u30b7\u30b6\u30fc\u30d7": 1316,
+            "\u30ec\u30c3\u30c9\u30a4\u30ba\u30a2\u30a6\u30c8": 1259,
+            "\u30df\u30cb\u30de\u30e0\u30a6\u30a7\u30a4\u30b8\u30e3\u30fc": 1267,
+            "\u30d8\u30cb\u30ac\u30f3\u30ba\u30b9\u30c6\u30a3\u30fc\u30c9": 1273,
+            "\u30d9\u30bf\u30fc\u30b6\u30f3\u30ca\u30c3\u30b7\u30f3\u30b0": 1324,
+            "\u30c7\u30c3\u30c9\u30d5\u30a1\u30e0": 1266,
+            "\u30ed\u30b9\u30b5\u30f3\u30c8\u30bb\u30a4\u30d3\u30e4\u30fc": 1294,
+            "\u30ad\u30e3\u30f3\u30bb\u30eb\u30c1\u30a7\u30c3\u30af": 1283,
+            "\u30df\u30b9\u30bf\u30fc\u30ef\u30fc\u30b9\u30ef\u30a4\u30eb": 1269,
+            "\u30b9\u30bf\u30c7\u30a3\u30d0\u30c7\u30a3": 1314,
+            "\u30c7\u30c3\u30c9\u30cf\u30fc\u30c8\u30cf\u30c3\u30c6\u30a3\u30fc": 1223,
+            "\u30ca\u30a4\u30c8\u30bf\u30a4\u30e0\u30e1\u30a2": 1291,
+            "\u30b3\u30f3\u30b9\u30bf\u30f3\u30c8\u30e9\u30b0": 1303,
+            "\u30ef\u30fc\u30b9\u30a2\u30ad\u30f3\u30b0\u30c0\u30e0": 1342,
+            "\u30c9\u30af\u30bf\u30fc\u30c7\u30a3\u30fc\u30ba\u30ec\u30a4\u30f3": 1267,
+            "\u30a4\u30c3\u30c4\u30a2\u30c8\u30e9\u30c3\u30d7": 1243,
+            "\u30b9\u30ed\u30fc\u30a4\u30f3\u30b0\u30b7\u30a7\u30a4\u30c7\u30a3": 1226,
+            "\u30a6\u30a7\u30fc\u30b8\u30aa\u30d6\u30b3\u30f3\u30bb\u30f3\u30c8": 1268,
+            "\u30ad\u30e3\u30f3\u30c8\u30d3\u30fc\u30ed\u30f3\u30ac\u30fc": 1255,
+            "\u30c0\u30fc\u30d0\u30f3\u30dd\u30a4\u30ba\u30f3": 1250,
+            "\u30df\u30b9\u30bf\u30fc\u30b7\u30b6\u30fc\u30ba": 1358,
+            "\u30c9\u30e9\u30f3\u30af\u30d6\u30e9\u30f3\u30c7\u30a3\u30fc": 1311,
+            "\u30c0\u30f3\u30b7\u30f3\u30b0\u30dd\u30fc\u30eb": 1334,
+            "\u30d0\u30a6\u30f3\u30b7\u30fc\u30d6\u30ec\u30b9": 1328,
+            "\u30d5\u30a3\u30fc\u30c9\u30b6\u30c8\u30ed\u30fc\u30eb": 1278,
+            "\u30d8\u30eb\u30aa\u30d6\u30a6\u30a7\u30b6\u30fc": 1327,
+            "\u30b5\u30fc\u30b9\u30af\u30e9\u30f3\u30d6\u30eb": 1237,
+            "\u30da\u30c7\u30b9\u30c8\u30ea\u30a2\u30f3": 1228,
+            "\u30a4\u30f3\u30d9\u30fc\u30c9\u30b0\u30ec\u30cd\u30fc\u30c9": 1344,
+            "\u30af\u30ea\u30fc\u30d4\u30fc\u30c7\u30f3\u30c6\u30a3\u30b9\u30c8": 1346,
+            "\u30a2\u30c3\u30d7\u30bf\u30a6\u30f3\u30e9\u30a4\u30c0\u30fc": 1322,
+            "\u30ea\u30fc\u30c1\u30a2\u30e9\u30a6\u30f3\u30c9\u30bf\u30a6\u30f3": 1348,
+            "\u30b9\u30a6\u30a3\u30fc\u30c8\u30ea\u30ea\u30fc\u30d5": 1293,
+            "\u30b9\u30c1\u30e5\u30fc\u30d4\u30c3\u30c9\u30de\u30cd\u30fc": 1259,
+            "\u30b5\u30f3\u30d7\u30c6\u30a3\u30f3\u30bd\u30fc\u30b7\u30fc": 1286,
+            "\u30c9\u30ed\u30fc\u30f3\u30ef\u30fc\u30cb\u30f3\u30b0": 1266,
+            "\u30aa\u30fc\u30eb\u30c9\u30a4\u30eb\u30a6\u30a3\u30eb": 1161,
+            "\u30ea\u30c3\u30c8\u30a2\u30ba\u30c8\u30e9\u30c3\u30af": 1333,
+            "\u30de\u30a4\u30af\u30ed\u30a2\u30b0\u30ec\u30c3\u30b7\u30e7\u30f3": 1273,
+            "\u30a4\u30a8\u30a4\u30ec\u30c3\u30c4\u30b4\u30fc": 1236,
+            "\u30af\u30e9\u30c3\u30d7\u30d0\u30c3\u30af\u30c1\u30e3\u30fc\u30ea\u30fc": 1314,
+            "\u30b0\u30e9\u30b9\u30aa\u30a2\u30c6\u30a3\u30ca": 1306,
+            "\u30bd\u30eb\u30c8\uff06\u30bd\u30fc\u30b9": 1240,
+            "\u30c6\u30f3\u30da\u30cb\u30fc": 1339,
+            "\u30d0\u30ca\u30ca\u30cf\u30f3\u30e2\u30c3\u30af": 1246,
+            "\u30c0\u30fc\u30ea\u30f3\u30ea\u30c3\u30ad\u30fc": 1191,
+            "\u30e9\u30d0\u30fc\u30ba\u30b9\u30d4\u30fc\u30c9": 1240,
+            "\u30c9\u30ea\u30fc\u30e0\u30b7\u30e3\u30c3\u30bf\u30fc": 1322,
+            "\u30c7\u30a3\u30dc\u30fc\u30b9\u30c9\u30af\u30bf\u30fc": 1287,
+            "\u30c6\u30a3\u30fc\u30a8\u30a4\u30af\u30b7\u30fc": 1192,
+            "\u30af\u30e9\u30c3\u30ab\u30fc\u30d7\u30ea\u30fc\u30ba": 1265,
+            "\u30b9\u30af\u30a8\u30a2\u30c8\u30a5\u30b4\u30fc": 1344,
+            "\u30c0\u30a6\u30c8\u30d5\u30eb\u30c7\u30a3\u30b0\u30cb\u30c6\u30a3": 1307,
+            "\u30db\u30c3\u30c8\u30a2\u30f3\u30c9\u30d0\u30b6\u30fc\u30c9": 1271,
+            "\u30df\u30b9\u30e1\u30a2\u30ea\u30fc\u30b8\u30e7\u30f3": 1235,
+            "\u30d0\u30c3\u30c9\u30a8\u30c3\u30b0": 1254,
+            "\u30af\u30ed\u30c3\u30af\u30b8\u30a7\u30f3\u30ea\u30fc": 1286,
+            "\u30df\u30fc\u30ba\u30eb\u30b9\u30df\u30fc\u30ba\u30eb": 1321,
+            "\u30de\u30cd\u30fc\u30c8\u30a5\u30d0\u30fc\u30f3": 1272,
+            "\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u30d5\u30a1\u30a4\u30a2": 1298,
+            "\u30b9\u30af\u30ed\u30fc\u30cb\u30fc\u30ca\u30c3\u30b0": 1174,
+            "\u30c7\u30a3\u30ad\u30b7\u30fc\u30e9\u30f3\u30ca\u30fc": 1329,
+            "\u30ce\u30fc\u30b6\u30f3\u30e9\u30a4\u30c8": 1308,
+            "\u30d6\u30eb\u30fc\u30c9\u30ea\u30fc\u30e0": 1260,
+            "\u30df\u30b9\u30bf\u30fc\u30ea\u30c0\u30af\u30c8": 1241,
+            "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\u30ea\u30ce\u30a6\u30f3": 1290,
+            "\u30aa\u30fc\u30e1\u30f3\u30ba\u30a2\u30a4\u30b9": 1314,
+            "\u30df\u30b9\u30c8\u30ea\u30ac\u30fc": 1180,
+            "\u30aa\u30fc\u30eb\u30c9\u30b9\u30ab\u30c3\u30b0": 1222,
+            "\u30b9\u30ca\u30c3\u30c1\u30e6\u30a2\u30de\u30de": 1243,
+            "\u30c0\u30f3\u30b7\u30f3\u30b0\u30b7\u30e5\u30fc\u30ba": 1232,
+            "\u30d6\u30e9\u30c3\u30af\u30eb\u30fc\u30b9\u30bf\u30fc": 1243,
+            "\u30dc\u30ed\u30a6\u30f3\u30ed\u30a6": 1378,
+            "\u30ab\u30f3\u30c8\u30ea\u30fc\u30b9\u30bf\u30c3\u30af": 1258,
+            "\u30ed\u30dc\u30b3\u30fc\u30eb": 1313,
+            "\u30ca\u30f3\u30ba\u30aa\u30fc\u30c0\u30fc\u30ba": 1287,
+            "\u30de\u30c3\u30c9\u30c9\u30e9\u30b4\u30f3": 1216
+        },
+        "wins": {
+            "\u30c8\u30fc\u30bf\u30eb\u30d9\u30eb\u30bf\u30fc": 702,
+            "\u30d2\u30c3\u30d4\u30fc\u30d6\u30e9\u30c3\u30af": 51,
+            "\u30a4\u30a8\u30ed\u30fc\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3": 257,
+            "\u30a6\u30a3\u30fc\u30b9\u30ab\u30ca\u30fc": 165,
+            "\u30ec\u30c3\u30c9\u30a4\u30ba\u30a2\u30a6\u30c8": 385,
+            "\u30df\u30cb\u30de\u30e0\u30a6\u30a7\u30a4\u30b8\u30e3\u30fc": 45,
+            "\u30c7\u30c3\u30c9\u30d5\u30a1\u30e0": 63,
+            "\u30df\u30b9\u30bf\u30fc\u30ef\u30fc\u30b9\u30ef\u30a4\u30eb": 523,
+            "\u30b3\u30f3\u30b9\u30bf\u30f3\u30c8\u30e9\u30b0": 424,
+            "\u30ef\u30fc\u30b9\u30a2\u30ad\u30f3\u30b0\u30c0\u30e0": 554,
+            "\u30a4\u30c3\u30c4\u30a2\u30c8\u30e9\u30c3\u30d7": 684,
+            "\u30b9\u30a6\u30a3\u30fc\u30c8\u30ea\u30ea\u30fc\u30d5": 342,
+            "\u30d0\u30a6\u30f3\u30b7\u30fc\u30d6\u30ec\u30b9": 286,
+            "\u30ed\u30f3\u30ea\u30fc\u30d6\u30e9\u30b6\u30fc": 447,
+            "\u30c6\u30f3\u30da\u30cb\u30fc": 133,
+            "\u30e9\u30d0\u30fc\u30ba\u30b9\u30d4\u30fc\u30c9": 494,
+            "\u30c9\u30ea\u30fc\u30e0\u30b7\u30e3\u30c3\u30bf\u30fc": 779,
+            "\u30ed\u30b9\u30b5\u30f3\u30c8\u30bb\u30a4\u30d3\u30e4\u30fc": 305,
+            "\u30bc\u30a2\u30b7\u30fc\u30d7\u30ed\u30fc": 532,
+            "\u30a6\u30a7\u30fc\u30b8\u30aa\u30d6\u30b3\u30f3\u30bb\u30f3\u30c8": 46,
+            "\u30c0\u30fc\u30ea\u30f3\u30ea\u30c3\u30ad\u30fc": 44,
+            "\u30c0\u30f3\u30b7\u30f3\u30b0\u30dd\u30fc\u30eb": 134,
+            "\u30af\u30ea\u30fc\u30d4\u30fc\u30c7\u30f3\u30c6\u30a3\u30b9\u30c8": 163,
+            "\u30c9\u30af\u30bf\u30fc\u30c7\u30a3\u30fc\u30ba\u30ec\u30a4\u30f3": 263,
+            "\u30d7\u30ea\u30fc\u30c8\u30df\u30fc\u30d9\u30a4\u30d3\u30fc": 171,
+            "\u30ea\u30c3\u30c8\u30a2\u30ba\u30c8\u30e9\u30c3\u30af": 785,
+            "\u30bf\u30c3\u30af\u30b9\u30b6\u30d7\u30a2": 89,
+            "\u30bd\u30eb\u30c8\uff06\u30bd\u30fc\u30b9": 718,
+            "\u30a4\u30a8\u30a4\u30ec\u30c3\u30c4\u30b4\u30fc": 384,
+            "\u30d0\u30ca\u30ca\u30cf\u30f3\u30e2\u30c3\u30af": 67,
+            "\u30d5\u30ea\u30c3\u30d7\u30a6\u30a3\u30c3\u30b0": 111,
+            "\u30db\u30c3\u30c8\u30a2\u30f3\u30c9\u30d0\u30b6\u30fc\u30c9": 515,
+            "\u30de\u30cd\u30fc\u30c8\u30a5\u30d0\u30fc\u30f3": 31,
+            "\u30d6\u30eb\u30fc\u30c9\u30ea\u30fc\u30e0": 533,
+            "\u30b9\u30ca\u30c3\u30c1\u30e6\u30a2\u30de\u30de": 726,
+            "\u30c0\u30f3\u30b7\u30f3\u30b0\u30b7\u30e5\u30fc\u30ba": 275,
+            "\u30b4\u30fc\u30b9\u30c8\u30c0\u30f3\u30af": 107,
+            "\u30d5\u30a1\u30a4\u30a2\u30cf\u30b6\u30fc\u30c9": 67,
+            "\u30aa\u30fc\u30e1\u30f3\u30ba\u30a2\u30a4\u30b9": 421,
+            "\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u30d5\u30a1\u30a4\u30a2": 120,
+            "\u30ea\u30fc\u30c1\u30a2\u30e9\u30a6\u30f3\u30c9\u30bf\u30a6\u30f3": 174,
+            "\u30df\u30b9\u30c8\u30ea\u30ac\u30fc": 60,
+            "\u30df\u30b9\u30bf\u30fc\u30b7\u30b6\u30fc\u30ba": 184,
+            "\u30af\u30ed\u30c3\u30af\u30b8\u30a7\u30f3\u30ea\u30fc": 145,
+            "\u30c0\u30a6\u30c8\u30d5\u30eb\u30c7\u30a3\u30b0\u30cb\u30c6\u30a3": 112,
+            "\u30d8\u30eb\u30aa\u30d6\u30a6\u30a7\u30b6\u30fc": 541,
+            "\u30ca\u30f3\u30ba\u30aa\u30fc\u30c0\u30fc\u30ba": 122,
+            "\u30b9\u30c1\u30e5\u30fc\u30d4\u30c3\u30c9\u30de\u30cd\u30fc": 48,
+            "\u30a2\u30c3\u30d7\u30bf\u30a6\u30f3\u30e9\u30a4\u30c0\u30fc": 85,
+            "\u30b2\u30c3\u30c6\u30a3\u30f3\u30b0\u30db\u30fc\u30c6\u30a3\u30fc": 399,
+            "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\u30ea\u30ce\u30a6\u30f3": 328,
+            "\u30ab\u30f3\u30c8\u30ea\u30fc\u30b9\u30bf\u30c3\u30af": 60,
+            "\u30ed\u30dc\u30b3\u30fc\u30eb": 330,
+            "\u30c9\u30e9\u30f3\u30af\u30d6\u30e9\u30f3\u30c7\u30a3\u30fc": 81,
+            "\u30d8\u30cb\u30ac\u30f3\u30ba\u30b9\u30c6\u30a3\u30fc\u30c9": 351,
+            "\u30bf\u30fc\u30f3\u30c8\u30e0\u30fc\u30c9": 99,
+            "\u30b5\u30fc\u30b9\u30af\u30e9\u30f3\u30d6\u30eb": 36,
+            "\u30af\u30e9\u30d5\u30e9\u30f3\u30cb\u30f3\u30b0": 71,
+            "\u30d5\u30a3\u30fc\u30c9\u30b6\u30c8\u30ed\u30fc\u30eb": 43,
+            "\u30e0\u30fc\u30f3\u30ed\u30c3\u30af": 344,
+            "\u30d7\u30ea\u30c6\u30a3\u30ba\u30a2\u30ba\u30d4\u30b9\u30c8\u30eb": 344,
+            "\u30b5\u30f3\u30d7\u30c6\u30a3\u30f3\u30bd\u30fc\u30b7\u30fc": 738,
+            "\u30b9\u30af\u30a8\u30a2\u30c8\u30a5\u30b4\u30fc": 208,
+            "\u30af\u30e9\u30c3\u30d7\u30d0\u30c3\u30af\u30c1\u30e3\u30fc\u30ea\u30fc": 121,
+            "\u30c9\u30ed\u30fc\u30f3\u30ef\u30fc\u30cb\u30f3\u30b0": 129,
+            "\u30c7\u30a3\u30dc\u30fc\u30b9\u30c9\u30af\u30bf\u30fc": 168,
+            "\u30c0\u30fc\u30d0\u30f3\u30dd\u30a4\u30ba\u30f3": 52,
+            "\u30c6\u30a3\u30fc\u30a8\u30a4\u30af\u30b7\u30fc": 57,
+            "\u30da\u30c7\u30b9\u30c8\u30ea\u30a2\u30f3": 38,
+            "\u30af\u30e9\u30c3\u30ab\u30fc\u30d7\u30ea\u30fc\u30ba": 408,
+            "\u30a4\u30f3\u30d9\u30fc\u30c9\u30b0\u30ec\u30cd\u30fc\u30c9": 96,
+            "\u30ad\u30e3\u30f3\u30bb\u30eb\u30c1\u30a7\u30c3\u30af": 51,
+            "\u30dc\u30ed\u30a6\u30f3\u30ed\u30a6": 102,
+            "\u30c9\u30c3\u30b8\u30fc\u30d5\u30eb\u30fc\u30b8\u30fc": 83,
+            "\u30de\u30a4\u30af\u30ed\u30a2\u30b0\u30ec\u30c3\u30b7\u30e7\u30f3": 129,
+            "\u30b9\u30bf\u30c7\u30a3\u30d0\u30c7\u30a3": 93,
+            "\u30c7\u30a3\u30ad\u30b7\u30fc\u30e9\u30f3\u30ca\u30fc": 201,
+            "\u30b5\u30f3\u30c0\u30fc\u30b9\u30ab\u30f3\u30af": 55,
+            "\u30c7\u30c3\u30c9\u30cf\u30fc\u30c8\u30cf\u30c3\u30c6\u30a3\u30fc": 54,
+            "\u30bd\u30eb\u30c6\u30a3\u30a2\u30f3\u30c9\u30a6\u30a9\u30fc\u30af": 82,
+            "\u30b0\u30e9\u30b9\u30aa\u30a2\u30c6\u30a3\u30ca": 39,
+            "\u30aa\u30fc\u30eb\u30c9\u30a4\u30eb\u30a6\u30a3\u30eb": 38,
+            "\u30ce\u30fc\u30b6\u30f3\u30e9\u30a4\u30c8": 75,
+            "\u30df\u30b9\u30e1\u30a2\u30ea\u30fc\u30b8\u30e7\u30f3": 53,
+            "\u30d9\u30bf\u30fc\u30b6\u30f3\u30ca\u30c3\u30b7\u30f3\u30b0": 87,
+            "\u30df\u30b9\u30bf\u30fc\u30ea\u30c0\u30af\u30c8": 51,
+            "\u30df\u30fc\u30ba\u30eb\u30b9\u30df\u30fc\u30ba\u30eb": 77,
+            "\u30c6\u30b6\u30fc\u30a8\u30f3\u30c9": 42,
+            "\u30cf\u30fc\u30c9\u30bf\u30a4\u30e0\u30c0\u30f3": 58,
+            "\u30de\u30c3\u30c9\u30c9\u30e9\u30b4\u30f3": 274,
+            "\u30ad\u30e3\u30f3\u30c8\u30d3\u30fc\u30ed\u30f3\u30ac\u30fc": 55,
+            "\u30b7\u30b6\u30fc\u30d7": 83,
+            "\u30aa\u30fc\u30eb\u30c9\u30b9\u30ab\u30c3\u30b0": 44,
+            "\u30b9\u30af\u30ed\u30fc\u30cb\u30fc\u30ca\u30c3\u30b0": 41,
+            "\u30ca\u30a4\u30c8\u30bf\u30a4\u30e0\u30e1\u30a2": 81,
+            "\u30d6\u30e9\u30c3\u30af\u30eb\u30fc\u30b9\u30bf\u30fc": 58,
+            "\u30bd\u30fc\u30b7\u30e3\u30eb\u30a6\u30a9\u30fc\u30ea\u30a2\u30fc": 45,
+            "\u30b9\u30ed\u30fc\u30a4\u30f3\u30b0\u30b7\u30a7\u30a4\u30c7\u30a3": 20,
+            "\u30d0\u30c3\u30c9\u30a8\u30c3\u30b0": 36
+        }
+    },
+    "consecutive_win_stats": {
+        "\u30c6\u30f3\u30da\u30cb\u30fc": {
+            "appearances": 1,
+            "wins": 0
+        },
+        "\u30b2\u30c3\u30c6\u30a3\u30f3\u30b0\u30db\u30fc\u30c6\u30a3\u30fc": {
+            "appearances": 1,
+            "wins": 0
+        },
+        "\u30e0\u30fc\u30f3\u30ed\u30c3\u30af": {
+            "appearances": 1,
+            "wins": 1
+        },
+        "\u30b5\u30f3\u30d7\u30c6\u30a3\u30f3\u30bd\u30fc\u30b7\u30fc": {
+            "appearances": 1,
+            "wins": 1
+        },
+        "\u30ea\u30c3\u30c8\u30a2\u30ba\u30c8\u30e9\u30c3\u30af": {
+            "appearances": 1,
+            "wins": 0
+        },
+        "\u30a6\u30a7\u30fc\u30b8\u30aa\u30d6\u30b3\u30f3\u30bb\u30f3\u30c8": {
+            "appearances": 1,
+            "wins": 0
+        }
+    },
+    "rank_n_odds_stats": {
+        "1": {
+            "3.0": 5703,
+            "4.0": 3907,
+            "5.0": 1864,
+            "2.0": 7502,
+            "6.0": 539
+        },
+        "2": {
+            "5.0": 2807,
+            "6.0": 3591,
+            "4.0": 2193,
+            "3.0": 1116,
+            "9.0": 1,
+            "8.0": 1
+        },
+        "3": {
+            "7.0": 2185,
+            "8.0": 2478,
+            "11.0": 1112,
+            "9.0": 2074,
+            "10.0": 1329,
+            "13.0": 1258,
+            "14.0": 847,
+            "15.0": 355,
+            "16.0": 141
+        },
+        "4": {
+            "16.0": 2678,
+            "10.0": 808,
+            "14.0": 1987,
+            "13.0": 1612,
+            "9.0": 617,
+            "15.0": 1786,
+            "11.0": 973,
+            "19.0": 1,
+            "8.0": 291,
+            "28.0": 1,
+            "22.0": 1,
+            "21.0": 1
+        },
+        "5": {
+            "31.0": 129,
+            "20.0": 1108,
+            "19.0": 1141,
+            "21.0": 1022,
+            "22.0": 1406,
+            "17.0": 1406,
+            "23.0": 821,
+            "24.0": 766,
+            "18.0": 1272,
+            "25.0": 638,
+            "27.0": 762,
+            "30.0": 166,
+            "29.0": 241,
+            "26.0": 609,
+            "28.0": 293
+        },
+        "6": {
+            "23.0": 505,
+            "26.0": 786,
+            "28.0": 1050,
+            "30.0": 1165,
+            "27.0": 1299,
+            "20.0": 222,
+            "31.0": 2524,
+            "29.0": 1087,
+            "22.0": 650,
+            "19.0": 183,
+            "25.0": 732,
+            "21.0": 328,
+            "24.0": 644,
+            "18.0": 91
+        }
+    },
+    "odds_pattern_stats": {
+        "R1_ODDS_2.0": {
+            "appearances": 7051,
+            "wins": 4501
+        },
+        "R1_ODDS_4.0": {
+            "appearances": 3657,
+            "wins": 1638
+        },
+        "R1_ODDS_3.0": {
+            "appearances": 5376,
+            "wins": 2785
+        },
+        "R1_ODDS_5.0": {
+            "appearances": 1762,
+            "wins": 744
+        },
+        "R1_ODDS_6.0": {
+            "appearances": 512,
+            "wins": 275
+        },
+        "R2_ODDS_5.0": {
+            "appearances": 2800,
+            "wins": 677
+        },
+        "R3_ODDS_7.0": {
+            "appearances": 2182,
+            "wins": 332
+        },
+        "R4_ODDS_16.0": {
+            "appearances": 2669,
+            "wins": 155
+        },
+        "R5_ODDS_31.0": {
+            "appearances": 129,
+            "wins": 10
+        },
+        "R2_ODDS_6.0": {
+            "appearances": 3577,
+            "wins": 748
+        },
+        "R3_ODDS_8.0": {
+            "appearances": 2469,
+            "wins": 312
+        },
+        "R4_ODDS_10.0": {
+            "appearances": 802,
+            "wins": 63
+        },
+        "R5_ODDS_20.0": {
+            "appearances": 1102,
+            "wins": 51
+        },
+        "R6_ODDS_23.0": {
+            "appearances": 504,
+            "wins": 18
+        },
+        "R2_ODDS_4.0": {
+            "appearances": 2184,
+            "wins": 557
+        },
+        "R3_ODDS_11.0": {
+            "appearances": 1106,
+            "wins": 125
+        },
+        "R6_ODDS_26.0": {
+            "appearances": 784,
+            "wins": 28
+        },
+        "R3_ODDS_9.0": {
+            "appearances": 2067,
+            "wins": 226
+        },
+        "R4_ODDS_14.0": {
+            "appearances": 1979,
+            "wins": 130
+        },
+        "R5_ODDS_19.0": {
+            "appearances": 1139,
+            "wins": 54
+        },
+        "R6_ODDS_28.0": {
+            "appearances": 1047,
+            "wins": 33
+        },
+        "R5_ODDS_21.0": {
+            "appearances": 1017,
+            "wins": 41
+        },
+        "R6_ODDS_30.0": {
+            "appearances": 1162,
+            "wins": 32
+        },
+        "R4_ODDS_13.0": {
+            "appearances": 1606,
+            "wins": 118
+        },
+        "R4_ODDS_9.0": {
+            "appearances": 615,
+            "wins": 65
+        },
+        "R5_ODDS_22.0": {
+            "appearances": 1391,
+            "wins": 49
+        },
+        "R6_ODDS_27.0": {
+            "appearances": 1298,
+            "wins": 33
+        },
+        "R5_ODDS_17.0": {
+            "appearances": 1401,
+            "wins": 89
+        },
+        "R6_ODDS_20.0": {
+            "appearances": 222,
+            "wins": 11
+        },
+        "R5_ODDS_23.0": {
+            "appearances": 821,
+            "wins": 35
+        },
+        "R6_ODDS_31.0": {
+            "appearances": 2521,
+            "wins": 76
+        },
+        "R3_ODDS_10.0": {
+            "appearances": 1325,
+            "wins": 133
+        },
+        "R5_ODDS_24.0": {
+            "appearances": 766,
+            "wins": 20
+        },
+        "R6_ODDS_29.0": {
+            "appearances": 1084,
+            "wins": 39
+        },
+        "R3_ODDS_13.0": {
+            "appearances": 1253,
+            "wins": 101
+        },
+        "R5_ODDS_18.0": {
+            "appearances": 1269,
+            "wins": 71
+        },
+        "R2_ODDS_3.0": {
+            "appearances": 1115,
+            "wins": 321
+        },
+        "R3_ODDS_14.0": {
+            "appearances": 845,
+            "wins": 59
+        },
+        "R6_ODDS_22.0": {
+            "appearances": 634,
+            "wins": 9
+        },
+        "R3_ODDS_15.0": {
+            "appearances": 352,
+            "wins": 27
+        },
+        "R6_ODDS_19.0": {
+            "appearances": 183,
+            "wins": 7
+        },
+        "R4_ODDS_15.0": {
+            "appearances": 1782,
+            "wins": 107
+        },
+        "R5_ODDS_25.0": {
+            "appearances": 637,
+            "wins": 40
+        },
+        "R4_ODDS_11.0": {
+            "appearances": 971,
+            "wins": 81
+        },
+        "R5_ODDS_27.0": {
+            "appearances": 761,
+            "wins": 33
+        },
+        "R2_ODDS_9.0": {
+            "appearances": 1,
+            "wins": 0
+        },
+        "R4_ODDS_19.0": {
+            "appearances": 1,
+            "wins": 0
+        },
+        "R5_ODDS_30.0": {
+            "appearances": 166,
+            "wins": 6
+        },
+        "R5_ODDS_29.0": {
+            "appearances": 241,
+            "wins": 10
+        },
+        "R6_ODDS_25.0": {
+            "appearances": 730,
+            "wins": 29
+        },
+        "R5_ODDS_26.0": {
+            "appearances": 609,
+            "wins": 20
+        },
+        "R6_ODDS_21.0": {
+            "appearances": 328,
+            "wins": 14
+        },
+        "R6_ODDS_24.0": {
+            "appearances": 641,
+            "wins": 22
+        },
+        "R4_ODDS_8.0": {
+            "appearances": 291,
+            "wins": 30
+        },
+        "R3_ODDS_16.0": {
+            "appearances": 141,
+            "wins": 18
+        },
+        "R5_ODDS_28.0": {
+            "appearances": 292,
+            "wins": 12
+        },
+        "R6_ODDS_18.0": {
+            "appearances": 91,
+            "wins": 6
+        },
+        "R4_ODDS_28.0": {
+            "appearances": 1,
+            "wins": 0
+        },
+        "R4_ODDS_22.0": {
+            "appearances": 1,
+            "wins": 0
+        },
+        "R2_ODDS_8.0": {
+            "appearances": 1,
+            "wins": 0
+        },
+        "R4_ODDS_21.0": {
+            "appearances": 1,
+            "wins": 0
+        }
+    },
+    "horse_odds_data": {
+        "\u30a6\u30a3\u30fc\u30b9\u30ab\u30ca\u30fc": 9.0,
+        "\u30c8\u30fc\u30bf\u30eb\u30d9\u30eb\u30bf\u30fc": 2.0,
+        "\u30df\u30b9\u30bf\u30fc\u30ea\u30c0\u30af\u30c8": 20.0,
+        "\u30c0\u30f3\u30b7\u30f3\u30b0\u30dd\u30fc\u30eb": 10.0,
+        "\u30de\u30cd\u30fc\u30c8\u30a5\u30d0\u30fc\u30f3": 31.0,
+        "\u30ea\u30c3\u30c8\u30a2\u30ba\u30c8\u30e9\u30c3\u30af": 2.0,
+        "\u30d9\u30bf\u30fc\u30b6\u30f3\u30ca\u30c3\u30b7\u30f3\u30b0": 16.0,
+        "\u30df\u30b9\u30bf\u30fc\u30ef\u30fc\u30b9\u30ef\u30a4\u30eb": 3.0,
+        "\u30d5\u30a1\u30a4\u30a2\u30cf\u30b6\u30fc\u30c9": 25.0,
+        "\u30af\u30ea\u30fc\u30d4\u30fc\u30c7\u30f3\u30c6\u30a3\u30b9\u30c8": 8.0,
+        "\u30ad\u30e3\u30f3\u30c8\u30d3\u30fc\u30ed\u30f3\u30ac\u30fc": 29.0,
+        "\u30db\u30c3\u30c8\u30a2\u30f3\u30c9\u30d0\u30b6\u30fc\u30c9": 3.0,
+        "\u30aa\u30fc\u30eb\u30c9\u30a4\u30eb\u30a6\u30a3\u30eb": 30.0,
+        "\u30af\u30e9\u30c3\u30d7\u30d0\u30c3\u30af\u30c1\u30e3\u30fc\u30ea\u30fc": 11.0,
+        "\u30b9\u30ca\u30c3\u30c1\u30e6\u30a2\u30de\u30de": 2.0,
+        "\u30c6\u30b6\u30fc\u30a8\u30f3\u30c9": 28.0,
+        "\u30bc\u30a2\u30b7\u30fc\u30d7\u30ed\u30fc": 3.0,
+        "\u30da\u30c7\u30b9\u30c8\u30ea\u30a2\u30f3": 26.0,
+        "\u30ce\u30fc\u30b6\u30f3\u30e9\u30a4\u30c8": 16.0,
+        "\u30ea\u30fc\u30c1\u30a2\u30e9\u30a6\u30f3\u30c9\u30bf\u30a6\u30f3": 7.0,
+        "\u30c7\u30c3\u30c9\u30cf\u30fc\u30c8\u30cf\u30c3\u30c6\u30a3\u30fc": 18.0,
+        "\u30c0\u30fc\u30ea\u30f3\u30ea\u30c3\u30ad\u30fc": 23.0,
+        "\u30b7\u30b6\u30fc\u30d7": 14.0,
+        "\u30d8\u30cb\u30ac\u30f3\u30ba\u30b9\u30c6\u30a3\u30fc\u30c9": 5.0,
+        "\u30a4\u30a8\u30ed\u30fc\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3": 6.0,
+        "\u30c7\u30a3\u30dc\u30fc\u30b9\u30c9\u30af\u30bf\u30fc": 8.0,
+        "\u30b4\u30fc\u30b9\u30c8\u30c0\u30f3\u30af": 11.0,
+        "\u30ad\u30e3\u30f3\u30bb\u30eb\u30c1\u30a7\u30c3\u30af": 26.0,
+        "\u30ed\u30b9\u30b5\u30f3\u30c8\u30bb\u30a4\u30d3\u30e4\u30fc": 6.0,
+        "\u30ca\u30a4\u30c8\u30bf\u30a4\u30e0\u30e1\u30a2": 17.0,
+        "\u30df\u30cb\u30de\u30e0\u30a6\u30a7\u30a4\u30b8\u30e3\u30fc": 27.0,
+        "\u30ca\u30f3\u30ba\u30aa\u30fc\u30c0\u30fc\u30ba": 10.0,
+        "\u30bd\u30eb\u30c6\u30a3\u30a2\u30f3\u30c9\u30a6\u30a9\u30fc\u30af": 18.0,
+        "\u30ed\u30f3\u30ea\u30fc\u30d6\u30e9\u30b6\u30fc": 4.0,
+        "\u30c9\u30ea\u30fc\u30e0\u30b7\u30e3\u30c3\u30bf\u30fc": 2.0,
+        "\u30d5\u30ea\u30c3\u30d7\u30a6\u30a3\u30c3\u30b0": 13.0,
+        "\u30dc\u30ed\u30a6\u30f3\u30ed\u30a6": 13.0,
+        "\u30c0\u30fc\u30d0\u30f3\u30dd\u30a4\u30ba\u30f3": 21.0,
+        "\u30d5\u30a3\u30fc\u30c9\u30b6\u30c8\u30ed\u30fc\u30eb": 31.0,
+        "\u30df\u30b9\u30e1\u30a2\u30ea\u30fc\u30b8\u30e7\u30f3": 23.0,
+        "\u30bd\u30eb\u30c8\uff06\u30bd\u30fc\u30b9": 2.0,
+        "\u30af\u30e9\u30c3\u30ab\u30fc\u30d7\u30ea\u30fc\u30ba": 4.0,
+        "\u30c0\u30a6\u30c8\u30d5\u30eb\u30c7\u30a3\u30b0\u30cb\u30c6\u30a3": 13.0,
+        "\u30bf\u30c3\u30af\u30b9\u30b6\u30d7\u30a2": 14.0,
+        "\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u30d5\u30a1\u30a4\u30a2": 10.0,
+        "\u30b9\u30c1\u30e5\u30fc\u30d4\u30c3\u30c9\u30de\u30cd\u30fc": 31.0,
+        "\u30d0\u30c3\u30c9\u30a8\u30c3\u30b0": 30.0,
+        "\u30b5\u30f3\u30d7\u30c6\u30a3\u30f3\u30bd\u30fc\u30b7\u30fc": 2.0,
+        "\u30c6\u30f3\u30da\u30cb\u30fc": 11.0,
+        "\u30c9\u30ed\u30fc\u30f3\u30ef\u30fc\u30cb\u30f3\u30b0": 9.0,
+        "\u30ed\u30dc\u30b3\u30fc\u30eb": 5.0,
+        "\u30d7\u30ea\u30fc\u30c8\u30df\u30fc\u30d9\u30a4\u30d3\u30fc": 8.0,
+        "\u30aa\u30fc\u30eb\u30c9\u30b9\u30ab\u30c3\u30b0": 29.0,
+        "\u30df\u30fc\u30ba\u30eb\u30b9\u30df\u30fc\u30ba\u30eb": 16.0,
+        "\u30e9\u30d0\u30fc\u30ba\u30b9\u30d4\u30fc\u30c9": 3.0,
+        "\u30b9\u30bf\u30c7\u30a3\u30d0\u30c7\u30a3": 16.0,
+        "\u30ef\u30fc\u30b9\u30a2\u30ad\u30f3\u30b0\u30c0\u30e0": 3.0,
+        "\u30b5\u30f3\u30c0\u30fc\u30b9\u30ab\u30f3\u30af": 21.0,
+        "\u30c7\u30c3\u30c9\u30d5\u30a1\u30e0": 27.0,
+        "\u30d6\u30eb\u30fc\u30c9\u30ea\u30fc\u30e0": 3.0,
+        "\u30de\u30a4\u30af\u30ed\u30a2\u30b0\u30ec\u30c3\u30b7\u30e7\u30f3": 9.0,
+        "\u30af\u30ed\u30c3\u30af\u30b8\u30a7\u30f3\u30ea\u30fc": 9.0,
+        "\u30a6\u30a7\u30fc\u30b8\u30aa\u30d6\u30b3\u30f3\u30bb\u30f3\u30c8": 22.0,
+        "\u30d0\u30a6\u30f3\u30b7\u30fc\u30d6\u30ec\u30b9": 6.0,
+        "\u30de\u30c3\u30c9\u30c9\u30e9\u30b4\u30f3": 6.0,
+        "\u30df\u30b9\u30c8\u30ea\u30ac\u30fc": 20.0,
+        "\u30a4\u30f3\u30d9\u30fc\u30c9\u30b0\u30ec\u30cd\u30fc\u30c9": 14.0,
+        "\u30d2\u30c3\u30d4\u30fc\u30d6\u30e9\u30c3\u30af": 24.0,
+        "\u30d6\u30e9\u30c3\u30af\u30eb\u30fc\u30b9\u30bf\u30fc": 19.0,
+        "\u30ec\u30c3\u30c9\u30a4\u30ba\u30a2\u30a6\u30c8": 4.0,
+        "\u30aa\u30fc\u30e1\u30f3\u30ba\u30a2\u30a4\u30b9": 4.0,
+        "\u30d8\u30eb\u30aa\u30d6\u30a6\u30a7\u30b6\u30fc": 3.0,
+        "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3\u30ea\u30ce\u30a6\u30f3": 5.0,
+        "\u30b9\u30ed\u30fc\u30a4\u30f3\u30b0\u30b7\u30a7\u30a4\u30c7\u30a3": 22.0,
+        "\u30c9\u30af\u30bf\u30fc\u30c7\u30a3\u30fc\u30ba\u30ec\u30a4\u30f3": 6.0,
+        "\u30b5\u30fc\u30b9\u30af\u30e9\u30f3\u30d6\u30eb": 27.0,
+        "\u30a4\u30a8\u30a4\u30ec\u30c3\u30c4\u30b4\u30fc": 4.0,
+        "\u30b2\u30c3\u30c6\u30a3\u30f3\u30b0\u30db\u30fc\u30c6\u30a3\u30fc": 4.0,
+        "\u30ab\u30f3\u30c8\u30ea\u30fc\u30b9\u30bf\u30c3\u30af": 22.0,
+        "\u30af\u30e9\u30d5\u30e9\u30f3\u30cb\u30f3\u30b0": 15.0,
+        "\u30d7\u30ea\u30c6\u30a3\u30ba\u30a2\u30ba\u30d4\u30b9\u30c8\u30eb": 5.0,
+        "\u30c9\u30c3\u30b8\u30fc\u30d5\u30eb\u30fc\u30b8\u30fc": 14.0,
+        "\u30b9\u30a6\u30a3\u30fc\u30c8\u30ea\u30ea\u30fc\u30d5": 5.0,
+        "\u30c9\u30e9\u30f3\u30af\u30d6\u30e9\u30f3\u30c7\u30a3\u30fc": 15.0,
+        "\u30c6\u30a3\u30fc\u30a8\u30a4\u30af\u30b7\u30fc": 25.0,
+        "\u30b9\u30af\u30ed\u30fc\u30cb\u30fc\u30ca\u30c3\u30b0": 31.0,
+        "\u30c7\u30a3\u30ad\u30b7\u30fc\u30e9\u30f3\u30ca\u30fc": 7.0,
+        "\u30b9\u30af\u30a8\u30a2\u30c8\u30a5\u30b4\u30fc": 7.0,
+        "\u30d0\u30ca\u30ca\u30cf\u30f3\u30e2\u30c3\u30af": 17.0,
+        "\u30cf\u30fc\u30c9\u30bf\u30a4\u30e0\u30c0\u30f3": 19.0,
+        "\u30e0\u30fc\u30f3\u30ed\u30c3\u30af": 5.0,
+        "\u30df\u30b9\u30bf\u30fc\u30b7\u30b6\u30fc\u30ba": 8.0,
+        "\u30b0\u30e9\u30b9\u30aa\u30a2\u30c6\u30a3\u30ca": 24.0,
+        "\u30c0\u30f3\u30b7\u30f3\u30b0\u30b7\u30e5\u30fc\u30ba": 6.0,
+        "\u30bf\u30fc\u30f3\u30c8\u30e0\u30fc\u30c9": 13.0,
+        "\u30a2\u30c3\u30d7\u30bf\u30a6\u30f3\u30e9\u30a4\u30c0\u30fc": 15.0,
+        "\u30b3\u30f3\u30b9\u30bf\u30f3\u30c8\u30e9\u30b0": 4.0,
+        "\u30bd\u30fc\u30b7\u30e3\u30eb\u30a6\u30a9\u30fc\u30ea\u30a2\u30fc": 28.0,
+        "\u30a4\u30c3\u30c4\u30a2\u30c8\u30e9\u30c3\u30d7": 2.0
+    },
+    "cumulative_totals": {
+        "total_duration_seconds": 491242.1964700222,
+        "last_active_timestamp": 1759373246.1509967,
+        "total_races_bet_on": 9495,
+        "total_races_won": 4661,
+        "total_chip_profit": 39931473.0,
+        "total_bet_amount": 91055700,
+        "on_break": false,
+        "break_type": null,
+        "break_start_timestamp": null,
+        "break_end_timestamp": null,
+        "work_sessions": [
+            {
+                "start": 1759345204.681942,
+                "end": 1759362863.3342178
+            },
+            {
+                "start": 1759366832.69918,
+                "end": 1759373246.1509967
+            }
+        ]
+    }
+}
